@@ -187,7 +187,8 @@ in the **Workspace Storage Directory**.
     * Value in settings that indicates how many levels of subfolders to search.
     * Add collapse all button to collapse the sub-folders.
     * Add expand all button to expand all sub-folders.
-
+# Original project
+This project is based on original [vscode-workspace-explorer](https://gitlab.com/jfwy2bhilv/9vsgwopwel/vscode-workspace-explorer) extension
 # Contributors
 * Tom Saunders (original author, primary maintainer)
 * Xaryphon
